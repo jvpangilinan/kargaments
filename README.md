@@ -2,7 +2,7 @@
 
 A web-based inventory system for a hardware store (cement, nails, tools, wire, paint). Staff track stock, sales and purchase orders, and suppliers use their own portal to offer stock. It's built with PHP and MySQL, deployed on Hostinger, and designed to be easy for non-technical users.
 
-**🔗 Live site:** [kargaments website](https://kargaments.sbca.online)
+**🔗 Live site:** [kargaments website](https://kargamentph.sbca.online)
 
 ![Dashboard](screenshots/dashboard.png)
 
